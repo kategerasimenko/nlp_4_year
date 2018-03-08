@@ -1,0 +1,38 @@
+The value of digital currency Bitcoin is making headlines again.
+Amid volatile trade in November and December, it hit a peak of more than $17,000 at one point - a staggering rise, given that it started the year at $1,000.
+So what exactly is Bitcoin, and what's behind the buying frenzy?
+
+What is Bitcoin?
+There are two key traits of Bitcoin: it is digital and it is seen as an alternative currency.
+Unlike the notes or coins in your pocket, it largely exists online. Although there are some specialist ATMs which issue bitcoins, it may be best to think of them as being more like virtual tokens.
+And secondly, Bitcoin is not printed by governments or traditional banks.
+That means it is "not legal tender, you can't pay your taxes or use it to settle debts", says Dr Garrick Hileman of the Judge Business School at University of Cambridge.
+Bitcoins are created through a complex process known as "mining", and then monitored by a network of computers across the world.
+There's a steady stream of about 3,600 new bitcoins a day - with about 16.5 million now in circulation.
+However, like all currencies its value is determined by how much people are willing to buy and sell it for.
+
+Why has it gone up so much this year?
+No one is entirely sure. Some say it's a classic economic bubble: frenzied investors paying far more for an asset than it's worth for fear of missing out.
+They put it in the same bracket as the mania for Dutch tulip bulbs in the 1630s or internet companies in the dot.com boom.
+Others point to the growing prospect of Bitcoin crossing over into the financial mainstream.
+"Speculation is a big part of this, but there are signs of growing use," says Dr Hileman.
+He says there were between three and six million people around the world actively using crypto-currency in April.
+"Today it's probably closer to 10 to 20 million, so it's a very quickly growing user base," he says. That's the equivalent of a population the size of the Netherlands or Chile.
+There has also been a boost by some large financial institutions, like the owner of the Chicago Mercantile Exchange, getting into the space, he adds.
+
+How do people buy Bitcoin?
+There are now thousands of different crypto-currencies, but Bitcoin is still the best-known. To receive a bitcoin a user must have a Bitcoin address - a string of 27 to 34 letters and numbers.
+This acts as a kind of virtual postbox to and from which the bitcoins are sent.
+There is no registry linking real names to addresses, which helps some Bitcoin users to protect their anonymity. Bitcoin wallets store the addresses and are used to manage savings.
+They operate like privately-run bank accounts - with the proviso that if the data is lost, so are the bitcoins owned. Increasingly, users are often asked for ID to open a wallet.
+The rules underpinning Bitcoin say that only 21 million bitcoins can be created - and that figure is getting ever nearer. It is unclear what will happen to the value of bitcoins when that limit is reached.
+
+Can they use bitcoins to buy things?
+The anonymity afforded by digital currencies has attracted people wanting to make illegal purchases on the internet.
+However, a small but growing number of recognised businesses now allow customers to buy goods and services with Bitcoin.
+They range from multinational firms like Microsoft and travel booking site Expedia, through to small businesses using it as something of a novelty, such as a sushi restaurant in Cambridge or an art gallery in London.
+It is not the same as established currencies, like the US dollar, which can be used across the world to buy a coffee or pay for a hotel room.
+A 900% rise in one year for a traditional currency would have major repercussions for consumers' spending power and the businesses that accept it.
+But many Bitcoin owners don't use it to buy things.
+"The vast majority of users - I would estimate upwards of 80% or 90% - get into the space for investment reasons," says Dr Hileman.
+"So you see the term 'crypto-asset' being used to describe Bitcoin more than 'crypto-currency' these days."
